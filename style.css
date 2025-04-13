@@ -6,10 +6,16 @@ body {
     color: #222;
 }
 header {
-    background: #6a5acd;
+    background-color: #685bc7;
     color: white;
-    padding: 2rem;
+    padding: 40px 20px;
     text-align: center;
+}
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: 500;
 }
 main {
     padding: 2rem;
